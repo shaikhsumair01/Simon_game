@@ -1,5 +1,6 @@
 🎮 Simon Game (with jQuery)
 A web-based memory game inspired by the classic Simon Game, built using HTML, CSS, and jQuery. Challenge yourself to remember and repeat an ever-growing sequence of colors and sounds!
+
 🚀 Features
 - 🔁 Increasing difficulty with every level
 - 🎨 Four color buttons with sound cues
